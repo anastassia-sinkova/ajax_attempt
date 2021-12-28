@@ -4,7 +4,7 @@
 UI is not working, the form is not serialized.
 
 ## Setup
-Checkout the source from `https://github.com/anastassia-sinkova/attempt_at_ajax.git`.
+Checkout the source from `https://github.com/anastassia-sinkova/ajax_attempt.git`.
 
 Assuming you have Docker installed,
 run the next command to create and initialize database:
